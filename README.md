@@ -15,4 +15,4 @@ url : https://roland-fan-zhang.github.io/litdhospi
 * Les **années** seront affichées **horizontalement**.
 * Les **mois** seront affichés sous forme de **navigation verticale** pour une année donnée.
 * Les **pages de présentation** seront affichées **dans l’ordre chronologique**.
-* **GitHub Pages** générera/mettra à jour automatiquement le site web avec la présentation (merci d’attendre jusqu’à **1 minute** le temps que ça publish).
+* **GitHub Pages** générera/mettra à jour automatiquement le site web avec la présentation (merci d’attendre **1 minute** le temps que ça publish).
