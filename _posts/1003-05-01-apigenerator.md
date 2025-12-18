@@ -1,5 +1,3 @@
-## OpenAPI Generator
-
 <div class="slide-container" style="display:flex;align-items:center;justify-content:center;height:100%;padding:20px;">
   <div class="tech-card" style="background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:16px;padding:30px;display:flex;gap:30px;align-items:center;backdrop-filter:blur(10px);box-shadow:0 4px 30px rgba(0,0,0,0.1);max-width:900px;width:100%;flex-wrap:wrap;">
 
@@ -12,9 +10,9 @@
       <p style="color:#ddd;line-height:1.6;font-size:1.1rem;">
         Génération auto des bibliothèques clientes via spécification API.<br><br>
         <strong style="color:#4facfe;">Usage projet :</strong><br>
-        • Gain de temps sur le développement client<br>
-        • Évite les erreurs de typage<br>
-        • Synchro automatique Front/Back
+        Gain de temps sur le développement client<br>
+        Évite les erreurs de typage<br>
+        Synchro automatique Front/Back
       </p>
     </div>
 

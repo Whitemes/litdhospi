@@ -1,5 +1,3 @@
-## Spring Boot
-
 <div class="slide-container" style="display:flex;align-items:center;justify-content:center;height:100%;padding:20px;">
   <div class="tech-card" style="background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:16px;padding:30px;display:flex;gap:30px;align-items:center;backdrop-filter:blur(10px);box-shadow:0 4px 30px rgba(0,0,0,0.1);max-width:900px;width:100%;flex-wrap:wrap;">
 
@@ -10,17 +8,17 @@
     <div class="content-box" style="flex:1;min-width:250px;border-left:1px solid rgba(255,255,255,0.1);padding-left:30px;">
       <h2 style="margin-top:0;color:#fff;font-size:2rem;">SPRING BOOT</h2>
       <p style="color:#ddd;line-height:1.6;font-size:1.1rem;">
-        Framework Java pour créer rapidement des API et services back-end.<br><br>
+        Framework Java pour créer des applications robustes et rapides.<br><br>
         <strong style="color:#4facfe;">Usage projet :</strong><br>
-        • Implémentation des services back-end et endpoints API<br>
-        • Structuration standard (controllers/services/config)<br>
-        • Intégration facilitée avec tests et outils de build
+        Backend de l'application (API REST)<br>
+        Gestion de la logique métier et accès aux données (JPA)<br>
+        Sécurité et configuration simplifiée
       </p>
     </div>
 
     <div class="meta-box" style="flex:0 0 180px;display:flex;flex-direction:column;gap:10px;">
       <span style="background:rgba(79,172,254,0.2);color:#4facfe;padding:8px 12px;border-radius:8px;font-size:0.9rem;text-align:center;font-weight:600;">
-        BACK-END
+        BACKEND
       </span>
       <span style="background:rgba(255,255,255,0.1);color:#ccc;padding:8px 12px;border-radius:8px;font-size:0.9rem;text-align:center;">
         JAVA
