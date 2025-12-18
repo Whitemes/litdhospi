@@ -2,7 +2,7 @@
 
 Project is designed to quickly build presentation as a web page.
 
-url : https://roland-fan-zhang.github.io/litdhospi
+url : https://whitemes.github.io/litdhospi/
 
 **Setup**
 - Jekyll est écrit en Ruby donc il faudra installer le langage ainsi que RubyGems qui est un gestionnaire de package (un peu comme npm mais pour ruby) pour installer Jekyll.
